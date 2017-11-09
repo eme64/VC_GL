@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/colors.dir/colors.cpp.o CMakeFiles/colors.dir/thirdparty/glew-2.1.0/src/glew.c.o  -o colors -rdynamic thirdparty/glfw-3.2.1/src/libglfw3.a -lGLU -lGL -lrt -lm -ldl -lX11 -lpthread -lXrandr -lXinerama -lXxf86vm -lXcursor 
